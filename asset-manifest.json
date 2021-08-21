@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/benbryson789/django-react-wines-front-end/static/css/main.a617e044.chunk.css",
+    "main.js": "/benbryson789/django-react-wines-front-end/static/js/main.d1879c50.chunk.js",
+    "main.js.map": "/benbryson789/django-react-wines-front-end/static/js/main.d1879c50.chunk.js.map",
+    "runtime-main.js": "/benbryson789/django-react-wines-front-end/static/js/runtime-main.7bf24f6b.js",
+    "runtime-main.js.map": "/benbryson789/django-react-wines-front-end/static/js/runtime-main.7bf24f6b.js.map",
+    "static/css/2.818011ed.chunk.css": "/benbryson789/django-react-wines-front-end/static/css/2.818011ed.chunk.css",
+    "static/js/2.91801160.chunk.js": "/benbryson789/django-react-wines-front-end/static/js/2.91801160.chunk.js",
+    "static/js/2.91801160.chunk.js.map": "/benbryson789/django-react-wines-front-end/static/js/2.91801160.chunk.js.map",
+    "static/js/3.c67ca8b3.chunk.js": "/benbryson789/django-react-wines-front-end/static/js/3.c67ca8b3.chunk.js",
+    "static/js/3.c67ca8b3.chunk.js.map": "/benbryson789/django-react-wines-front-end/static/js/3.c67ca8b3.chunk.js.map",
+    "index.html": "/benbryson789/django-react-wines-front-end/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/benbryson789/django-react-wines-front-end/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/benbryson789/django-react-wines-front-end/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.91801160.chunk.js.LICENSE.txt": "/benbryson789/django-react-wines-front-end/static/js/2.91801160.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bf24f6b.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.91801160.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d1879c50.chunk.js"
+  ]
+}
